@@ -6,7 +6,7 @@ Created on Tue Oct 14 13:50:48 2025
 @author: sharifhafzi
 """
 
-# Simple Study Plan Program
+# Study Plan Program
 
 # Lists to store course info
 emnekoder = []

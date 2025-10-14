@@ -1,22 +1,21 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+
 """
 Created on Tue Oct 14 13:50:48 2025
 
 @author: sharifhafzi
 """
 
-# Simple Study Plan Program
+#  Studiet Plan Program
 
-# Lists to store course info
+# Lists som lagre kurs info
 emnekoder = []
 semester = []      # "Høst" or "Vår"
 studiepoeng = []
 
-# Study plan: 6 semesters, each is a list of course codes
+# Studiet planen har 6 semestre, hvert list inholder kurs info
 studieplan = [[], [], [], [], [], []]
 
-
+# funksjonen tar info fra brukeren om emnekode
 def lag_nytt_emne():
     kode = input("Skriv emnekode (f.eks. INF100): ").strip().upper()
     if kode in emnekoder:
@@ -37,7 +36,7 @@ def lag_nytt_emne():
     studiepoeng.append(poeng)
     print(f"Emnet {kode} lagt til!")
 
-
+#funksjonen spør brukeren til å skrive en emne som er lagt i data base
 def legg_til_emne_i_studieplan():
     if not emnekoder:
         print("Ingen emner registrert!")
