@@ -1,4 +1,4 @@
-
+emnekoder = []
 semester = []      
 studiepoeng = []
 
