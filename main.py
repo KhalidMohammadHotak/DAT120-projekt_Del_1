@@ -1,16 +1,5 @@
 
-
-"""
-Created on Tue Oct 14 13:50:48 2025
-
-@author: sharifhafzi
-"""
-
-# Simple Study Plan Program
-
-# Lists to store course info
-emnekoder = []
-semester = []      # "Høst" or "Vår"
+semester = []      
 studiepoeng = []
 
 # Study plan: 6 semesters, each is a list of course codes
