@@ -1,7 +1,3 @@
-DocViewer
-Side
-av 3
-Sider
 DAT120 øving 7: Gruppeprosjekt del 1
 Læringsmål
 Dere skal lære å jobbe med en litt større programmeringsoppgave i grupper. Dere skal lære
@@ -104,4 +100,3 @@ Menyvalgene
   ved å demonstrere det gruppa har lagd på samme vis som for de tidligere øvingene. I tillegg skal
   dere vise studentassistenten Github repo-et deres. Denne øvingen og øving 10 skal godkjennes
   bare en gang for hver gruppe, dere kan demonstrere en gang og så får alle i gruppa godkjent.
-  Merknader
